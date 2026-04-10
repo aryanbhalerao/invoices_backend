@@ -3,4 +3,4 @@ Backend Test using Postman screenshot:
 
 Database used: MySQL
 Screenshot of schema created locally using init.sql:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e73f2a1c-7d8e-4c24-b736-842e64245a26" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fc9d5c0-9392-433c-a128-afb615964f20" />
